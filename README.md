@@ -10,3 +10,5 @@ We need more programmers! Your assistance will be greatly appreciated.
 For an introduction to the technologies used and how the software is organized, refer to [Guidance for Blacksmiths](http://habitica.fandom.com/wiki/Guidance_for_Blacksmiths).
 
 To set up a local install of Habitica for development and testing on various platforms, see [Setting up Habitica Locally](http://habitica.fandom.com/wiki/Setting_up_Habitica_Locally).
+
+testing a nonsense change
